@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-banait-904502247/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekdb2003@gmail.com) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://img.icons8.com/?size=100&id=TpMqKvVFD9pP&format=png&color=000000)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-banait-904502247/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekdb2003@gmail.com) 
 
 # 💻 Tech Stack:
 <div align="left">
