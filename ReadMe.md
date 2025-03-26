@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](linkedin.json)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-banait-904502247/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekdb2003@gmail.com) 
+[![LinkedIn](LinkedIn.gif)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-banait-904502247/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekdb2003@gmail.com) 
 
 # 💻 Tech Stack:
 <div align="left">
