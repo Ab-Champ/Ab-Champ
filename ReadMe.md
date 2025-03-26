@@ -1,3 +1,12 @@
+<h1 align="left">🌟 Hey there!<br>ABHISHEK BANAIT here... 🚀 Ready to connect and create something amazing! 😃✨</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611mycp0n0bxpai3zgjj19xyzr1lkfzi66j5j06o4so&ep=v1_gifs_search&rid=giphy.gif&ct=g"   />
+</div>
+
+
 # 💫 About Me:
 🚀 AI/ML Professional – Skilled in Python, Data Science, Machine Learning, NLP, and Deep Learning.  <br>📚 4+ Years of Learning – Gained hands-on expertise through personal projects and advanced coursework.  <br>🎓 Amazon-Udacity AI-ML Scholar – Acquired deep technical knowledge in AI and ML.  <br>💼 Work experience – Most recently worked as an AI Intern at Infosys Springboard.  <br>🔍 Passionate Learner & Innovator – Dedicated to exploring and building AI-driven solutions.  
 
@@ -21,7 +30,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ab-Champ&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Ab-Champ/Ab-Champ/output/snake.svg" alt="Snake animation" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Ab-Champ&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
