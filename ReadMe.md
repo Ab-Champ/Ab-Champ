@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](LinkedIn.gif)](www.linkedin.com/in/abhishek-banait-904502247) [![email](gmail.gif)](mailto:abhishekdb2003@gmail.com) 
+[![LinkedIn](LinkedIn.gif)][LinkedIn](https://www.linkedin.com/in/abhishek-banait-904502247) [![email](gmail.gif)](mailto:abhishekdb2003@gmail.com) 
 
 # 💻 Tech Stack:
 <div align="left">
